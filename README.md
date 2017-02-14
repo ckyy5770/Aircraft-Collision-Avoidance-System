@@ -1,5 +1,5 @@
 # Aircraft-Collision-Avoidance-System
-Hybrid System Project
+Hybrid System Project - Dec.2016
 
 ## Brief Description
 The goal of this project is to design an aircraft controller
