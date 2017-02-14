@@ -26,11 +26,11 @@ or rotate left or right by 90 degrees but not turn back.
 
 * At the beginning of every k=1 minutes,
 
-**– The controller can exchange messages with any
+-The controller can exchange messages with any
 aircraft in a square region with side length 2q=4km
 (communication zone) in the vicinity of the aircraft
 as shown in the figure 1.
 
-**– Based on the messages received and the current state
+– Based on the messages received and the current state
 of the aircraft, the controller can update the direction
 of flight
